@@ -13,10 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://x.com/FrancisGermanic"
-linkedin: "https://www.linkedin.com/in/fgvillacres/"
+twitter: "FrancisGermanic"
+linkedin: "fgvillacres"
 #stackoverflow: "#"
-github: "https://github.com/FrancisGVM"
+github: "FrancisGVM"
 #researchgate: "#"
 #orcid: "#"
 #quora: "#"
